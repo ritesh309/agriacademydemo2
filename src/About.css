@@ -1,0 +1,13 @@
+.card_dim {
+  max-width: 1000px;
+}
+/* .social_media ul {
+  width: 200px;
+  height: 40rem;
+  align-items: center;
+  
+} */
+.social_media ul li {
+  width: 100%;
+
+}
